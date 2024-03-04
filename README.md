@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <body>
   <div align="center">
-    <h1> Hi there, I'm Muhammad Abdullah👋<a href="#"></h1>
+    <h1> Hi there, I'm Muhammad Ishaq👋<a href="#"></h1>
   </div>
 <p align="center">
 <a href="https://github.com/smuhabdullah"><img src="https://readme-typing-svg.herokuapp.com?lines=Experienced+Python+Developer;Data+Science+Enthusiast;Aspiring+Deep+Learning+Practitioner&center=true&width=500&height=50"></a>
@@ -108,10 +108,10 @@ This README serves as an introduction to who I am and what I am currently focusi
 </table>
 </p>
 <p width="100" align='center'>
-<a href="https://www.linkedin.com/in/smuhabdullah/"><img src="https://img.shields.io/badge/-Muhammad%20Abdullah-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/muhammad-ishaq-069089291/"><img src="https://img.shields.io/badge/-Muhammad%20Abdullah-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:mabdullahuit19b@gmail.com"><img src="https://img.shields.io/badge/-mabdullahuit19b@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 	<a href="https://smuhabdullah.medium.com/"><img src="https://img.shields.io/badge/-smuhabdullah-black ?style=flat&logo=medium&logoColor=white"/></a>
-<a href="https://www.instagram.com/m_abdullaharif/"><img src="https://img.shields.io/badge/-@muhammadabdullah-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/muhammadishaq5896/?hl=en"><img src="https://img.shields.io/badge/-@muhammadabdullah-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://smuhabdullah.me/"><img src="https://img.shields.io/badge/-/smuhabdullah-e8b519?style=flat&logo=portfolio&logoColor=green"/></a>
  </p>
  
