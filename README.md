@@ -46,7 +46,7 @@ Experienced Python Developer specializing in data science. I hold a Bachelor's d
     </td>
     <td align='center' width="200">
 <!--         <img src="https://buttercms.com/static/images/tech_banners/Flask.png" width="100"> -->
-	     <img src="https://github.com/smuhabdullah/smuhabdullah/assets/58034394/3e54b6b8-a958-455b-a9da-98cce8d34378" width="100">
+	    <!--  <img src="https://github.com/smuhabdullah/smuhabdullah/assets/58034394/3e54b6b8-a958-455b-a9da-98cce8d34378" width="100">
     </td>
 
 <!--<td align='center' width="200">
