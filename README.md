@@ -163,7 +163,7 @@ Hi, I'm Muhammad Ishaq — a passionate DevOps Engineer in the making! I'm curre
 | ⚙️ **IaC & Config Mgmt** | ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white&style=flat-square) ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white&style=flat-square) ![Vagrant](https://img.shields.io/badge/-Vagrant-1563FF?logo=vagrant&logoColor=white&style=flat-square) |
 | 🌐 **Web & Servers** | ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white&style=flat-square) ![Apache](https://img.shields.io/badge/-Apache-D42029?logo=apache&logoColor=white&style=flat-square) ![Tomcat](https://img.shields.io/badge/-Tomcat-F8DC75?logo=apache-tomcat&logoColor=black&style=flat-square) |
 | 💽 **Databases** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square) ![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?logo=amazondynamodb&logoColor=white&style=flat-square) |
-| 💻 **Programming Languages*
+| 💻 **Programming Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black&style=flat-square) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&logoColor=white&style=flat-square) ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square) |
 
 ---
 
