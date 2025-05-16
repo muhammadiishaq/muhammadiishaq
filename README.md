@@ -1,7 +1,7 @@
 
 
 
-**muhammadiishaq/muhammadiishaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**muhammadiishaq/muhammadiishaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,18 +13,18 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
 
 <body>
   <div align="center">
     <h1> Hi there, I'm Muhammad Ishaq👋<a href="#"></h1>
   </div>
-<!--<p align="center">
+<p align="center">
 <a href="https://github.com/smuhabdullah"><img src="https://readme-typing-svg.herokuapp.com?lines=Experienced+Python+Developer;Data+Science+Enthusiast;Aspiring+Deep+Learning+Practitioner&center=true&width=500&height=50"></a>
 ### Welcome to My GitHub Profile!
 Experienced Python Developer specializing in data science. I hold a Bachelor's degree in Computer Science from Usman Institute of Technology. Currently, I'm a Python Developer at Odolution, exhibited proficiency in designing and optimizing Odoo modules for improved performance and usability across 3 or more projects, with hands-on experience in Odoo versions 14, 15, 16, and 17. My leadership in the Sugarcane Disease Detector project showcases my skills in Python, CNN, and Django. I'm also an active volunteer with a passion for community service.
 
-<!--This README serves as an introduction to who I am and what I am currently focusing on in my learning journey.
+This README serves as an introduction to who I am and what I am currently focusing on in my learning journey.
 
 - 🌱 Instructed 4 batches of students, providing guidance to over 100+ individuals in developing their future skills at BanoQabil 2.0.
 - 🌱 Pursuing the Google Data Analyst course to learn valuable data analysis techniques and tools.
