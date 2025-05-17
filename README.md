@@ -168,9 +168,9 @@ Hi, I'm Muhammad Ishaq — a passionate DevOps Engineer in the making! I'm curre
 
 ---
 
-<!--## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=muhammadiishaq&theme=radical&no-frame=false&margin-w=4)
--->
+
 ---
 
 ## ✍️ Random Dev Quote
