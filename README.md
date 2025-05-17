@@ -167,9 +167,9 @@ Hi, I'm Muhammad Ishaq — a passionate DevOps Engineer in the making! I'm curre
 
 ---
 
-## 🏆 GitHub Trophies
+<!--## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=muhammadiishaq&theme=radical&no-frame=false&margin-w=4)
-
+-->
 ---
 
 ## ✍️ Random Dev Quote
@@ -177,9 +177,9 @@ Hi, I'm Muhammad Ishaq — a passionate DevOps Engineer in the making! I'm curre
 
 ---
 
-## 🔝 Top Contributed Repo
+<!--## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=muhammadiishaq&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+-->
 ---
 
 [![](https://visitcount.itsvg.in/api?id=muhammadiishaq&icon=0&color=0)](https://visitcount.itsvg.in)
