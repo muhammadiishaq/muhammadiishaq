@@ -34,26 +34,8 @@ Here are some ideas to get you started:
 - 🥅 My goals for this learning phase are to gain a solid foundation in Python development and data analysis and apply my skills to real-world projects.
 - 💎 If you have any suggestions, resources, or opportunities related to Python development or data analysis, feel free to connect with me.
 
- -->
-    
-</table>
-</p>
-<p width="100" align='center'>
-<a href="https://www.linkedin.com/in/muhammad-ishaq-069089291/"><img src="https://img.shields.io/badge/-Muhammad%20Abdullah-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:mabdullahuit19b@gmail.com"><img src="https://img.shields.io/badge/-mabdullahuit19b@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-	<a href="https://smuhabdullah.medium.com/"><img src="https://img.shields.io/badge/-smuhabdullah-black ?style=flat&logo=medium&logoColor=white"/></a>
-<a href="https://www.instagram.com/muhammadishaq5896/?hl=en"><img src="https://img.shields.io/badge/-@muhammadabdullah-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://smuhabdullah.me/"><img src="https://img.shields.io/badge/-/smuhabdullah-e8b519?style=flat&logo=portfolio&logoColor=green"/></a>
- </p>
  
-<br> -->
-
- 
-<!-- [](https://komarev.com/ghpvc/?username=rashidwassan&color=blueviolet&label=Profile+Views) 
-
 	
-
-
 <!--<p align="center">
 <!-- ## 🐛Github Magic Game  <img src="https://github.com/smuhabdullah/smuhabdullah/raw/output/github-contribution-grid-snake.svg" alt="snake"></center> -->
 </p>
@@ -68,6 +50,9 @@ Hi, I'm Muhammad Ishaq — a passionate DevOps Engineer in the making! I'm curre
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/muhammadishaq5896/?hl=en) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100087375879489) 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/824622549182185493)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Muhammad75551?t=TrBSUJoLqJO61DP5BSw9rQ&s=09)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadishaqpak801@gmail.com) 
+
 
 ---
 # 💼 DevOps Tech Stack & Programming Skills
