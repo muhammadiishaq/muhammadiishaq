@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <body style="background-color: #0d1117; color: #ffffff; font-family: 'Segoe UI', sans-serif;">
   <div align="center">
-    <h1 style="color: #00ffcc; font-size: 3em; font-weight: bold; text-shadow: 2px 2px 8px #008080;">
+    <h1 style="color: #d4ad00; font-size: 3em; font-weight: bold; text-shadow: 2px 2px 8px #008080;">
       Hi there, I'm Muhammad Ishaq 👋
     </h1>
   </div>
