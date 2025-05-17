@@ -14,20 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<body style="background-color: #0d1117; color:  #d4ad00; font-family: 'Segoe UI', sans-serif;">
-  <div align="center">
-    <h1 style="color: #d4ad00; font-size: 3em; font-weight: bold; text-shadow: 2px 2px 8px #d4ad00;">
-      Hi there, I'm Muhammad Ishaq 👋
-    </h1>
-  </div>
-</body>
-<h1 align="center">👋 Hi there, I'm <strong>Muhammad Ishaq</strong></h1>
-<h1 align="center">👋 Hi there, I'm <strong>Muhammad Ishaq</strong></h1>
-
-<!-- <body>
+ <body>
   <div align="center">
     <h1> Hi there, I'm Muhammad Ishaq👋<a href="#d"></h1>
-  </div> -->
+  </div>
 
   <p align="center">
   <a href="https://github.com/muhammadiishaq">
@@ -35,18 +25,6 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-
-<!-- <p align="center">
-  <a href="https://github.com/muhammadiishaq">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=DevOps+Engineer;Cloud+Computing+Specialist;Linux+Administrator;CI%2FCD+Automation+Expert;Infrastructure+as+Code+%28IaC%29;Monitoring+%26+Logging+with+Grafana;Cyber+Security+Enthusiast;Python+%7C+C%2B%2B+%7C+Bash+%7C+HTML+%7C+CSS">
-  </a>
-</p>
-
-     
-<!-- <p align="center">
-<a href="https://github.com/muhammadiishaq"><img src="https://readme-typing-svg.herokuapp.com?lines=Experienced+DevOps+Engineer;Cloud+Computing+Linux+admin;Cyber+Security+AI+Python;&center=true&width=500&height=50"></a>
-<!-- ### Welcome to My GitHub Profile!
-Experienced Python Developer specializing in data science. I hold a Bachelor's degree in Computer Science from Usman Institute of Technology. Currently, I'm a Python Developer at Odolution, exhibited proficiency in designing and optimizing Odoo modules for improved performance and usability across 3 or more projects, with hands-on experience in Odoo versions 14, 15, 16, and 17. My leadership in the Sugarcane Disease Detector project showcases my skills in Python, CNN, and Django. I'm also an active volunteer with a passion for community service.
 
 <!-- This README serves as an introduction to who I am and what I am currently focusing on in my learning journey.
 
@@ -56,76 +34,7 @@ Experienced Python Developer specializing in data science. I hold a Bachelor's d
 - 🥅 My goals for this learning phase are to gain a solid foundation in Python development and data analysis and apply my skills to real-world projects.
 - 💎 If you have any suggestions, resources, or opportunities related to Python development or data analysis, feel free to connect with me.
 
- 
-<h2>Tech Stack</h2>
-
-<table width="100" align='justify-center'>
-<tr>
-
-  <td align='center' width="200">
-        <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png"  width="80">
-    </td>
-  <td align='center' width="200">
-        <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" width="100">
-    </td>
-    <td align='center' width="200"> 
-<!--         <img src="https://buttercms.com/static/images/tech_banners/Flask.png" width="100"> -->
-	    
-
-<!--<td align='center' width="200">
-        <img src="https://github.com/smuhabdullah/smuhabdullah/assets/58034394/27a7c39c-6c5e-4cec-9110-0de89ebd9d05" width="100">
-    </td>
- <td align='center'  width="200">
-        <img src="https://github.com/opencv/opencv/wiki/logo/OpenCV_logo_no_text.png" width="100">
-    </td>
-	
-</tr>
- <tr>
-   
-  
-<td align='center'  width="200">
-        <img src="https://github.com/smuhabdullah/smuhabdullah/assets/58034394/9042153c-74b1-407a-94d9-6e5657b3044c" >
-    </td>
-	 <td align='center' width="200">
-        <img src="https://github.com/smuhabdullah/smuhabdullah/assets/58034394/e99ac296-f64c-479c-bf6a-1958c2713e9b" width="100%">
-    </td>
-  <td align='center'  width="200">
-        <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
-    </td>
-<td align='center'  width="200">
-        <img src="https://github.com/smuhabdullah/smuhabdullah/assets/58034394/64937b04-5c3a-4a46-b3f1-2c2375a27725" >
-    </td>
-	  
-  <td align='center'  width="200">
-        <img src="https://github.com/smuhabdullah/smuhabdullah/assets/58034394/30d22378-8123-4eea-9a9d-1bfc295a2583" >
-    </td>
-	
-
-</tr>
-<tr>
-    <td align='center' width="200">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"  width="100">
-    </td>
-    <td align='center' width="200">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="100">
-    </td>
-  
- <td align='center'  width="200">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" width="100">
-    </td>
-	
- <td align='center' width="200">
-        <img src="https://github.com/smuhabdullah/smuhabdullah/assets/58034394/afaefa9d-951b-429a-9f3d-cd522ff08048" width="100">
-    </td>
-	 <td align='center' width="200">
-        <img src="https://git-scm.com/images/logos/1color-darkbg@2x.png" width="100">
-    </td>
- 
-	
-    
-</tr>
- 
-
+ -->
     
 </table>
 </p>
