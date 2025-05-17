@@ -21,6 +21,8 @@ Here are some ideas to get you started:
     </h1>
   </div>
 </body>
+<h1 align="center">👋 Hi there, I'm <strong>Muhammad Ishaq</strong></h1>
+<h1 align="center">👋 Hi there, I'm <strong>Muhammad Ishaq</strong></h1>
 
 <!-- <body>
   <div align="center">
