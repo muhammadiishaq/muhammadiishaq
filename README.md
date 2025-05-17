@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 
 	
-## 💫 About Me
+# 💫 About Me
 Hi, I'm Muhammad Ishaq — a passionate DevOps Engineer in the making! I'm currently studying and building hands-on experience in modern cloud-native DevOps tools and practices, from CI/CD pipelines to cloud infrastructure, container orchestration, and infrastructure as code.
 
 ---
