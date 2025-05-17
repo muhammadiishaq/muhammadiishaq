@@ -26,15 +26,6 @@ Here are some ideas to get you started:
 </p>
 
 
-This README serves as an introduction to who I am and what I am currently focusing on in my learning journey.
-
-- 🌱 Instructed 4 batches of students, providing guidance to over 100+ individuals in developing their future skills at BanoQabil 2.0.
-- 🌱 Pursuing the Google Data Analyst course to learn valuable data analysis techniques and tools.
-- 👯 Looking forward to collaborating with other developers and data enthusiasts on interesting projects.
-- 🥅 My goals for this learning phase are to gain a solid foundation in Python development and data analysis and apply my skills to real-world projects.
-- 💎 If you have any suggestions, resources, or opportunities related to Python development or data analysis, feel free to connect with me.
-
- 
 	
 # 💫 About Me
 Hi, I'm Muhammad Ishaq — a passionate DevOps Engineer in the making! I'm currently studying and building hands-on experience in modern cloud-native DevOps tools and practices, from CI/CD pipelines to cloud infrastructure, container orchestration, and infrastructure as code.
@@ -48,7 +39,7 @@ Hi, I'm Muhammad Ishaq — a passionate DevOps Engineer in the making! I'm curre
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/824622549182185493)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Muhammad75551?t=TrBSUJoLqJO61DP5BSw9rQ&s=09)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadishaqpak801@gmail.com) 
-
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/https://ishaq-my-portfolio.netlify.app/) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://ishaq-my-portfolio.netlify.app/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://ishaq-my-portfolio.netlify.app/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://ishaq-my-portfolio.netlify.app/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/https://ishaq-my-portfolio.netlify.app/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Muhammad75551?t=TrBSUJoLqJO61DP5BSw9rQ&s=09) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/https://ishaq-my-portfolio.netlify.app/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadishaqpak801@gmail.com) 
 
 ---
 # 💼 DevOps Tech Stack & Programming Skills
