@@ -20,7 +20,14 @@ Here are some ideas to get you started:
     <h1> Hi there, I'm Muhammad Ishaq👋<a href="#"></h1>
   </div>
 
-<p align="center">
+  <p align="center">
+  <a href="https://github.com/muhammadiishaq">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=500&color=00FFAA&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Cloud+Computing+Specialist;Linux+Administrator;CI%2FCD+Automation+Expert;IaC+%7C+Terraform+%7C+Ansible;Monitoring+with+Grafana+%26+Prometheus;Cyber+Security+Enthusiast;Python+%7C+C%2B%2B+%7C+Bash+%7C+HTML+%7C+CSS">
+  </a>
+</p>
+
+
+<!-- <p align="center">
   <a href="https://github.com/muhammadiishaq">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=DevOps+Engineer;Cloud+Computing+Specialist;Linux+Administrator;CI%2FCD+Automation+Expert;Infrastructure+as+Code+%28IaC%29;Monitoring+%26+Logging+with+Grafana;Cyber+Security+Enthusiast;Python+%7C+C%2B%2B+%7C+Bash+%7C+HTML+%7C+CSS">
   </a>
