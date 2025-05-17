@@ -34,12 +34,14 @@ Hi, I'm Muhammad Ishaq — a passionate DevOps Engineer in the making! I'm curre
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ishaq-069089291/) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/muhammadishaq5896/?hl=en) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100087375879489) 
+[![Website](https://img.shields.io/badge/Website-0285FF?style=flat&logo=google-chrome&logoColor=white)](https://ishaq-my-portfolio.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadishaqpak801@gmail.com) 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/824622549182185493) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Muhammad75551) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadishaqpak801@gmail.com) 
-[![Website](https://img.shields.io/badge/Website-0285FF?style=flat&logo=google-chrome&logoColor=white)](https://ishaq-my-portfolio.netlify.app/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@Muhammadishq804) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/muhammadishaq5896/?hl=en) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100087375879489) 
+
 
 
 ---
@@ -58,9 +60,9 @@ Hi, I'm Muhammad Ishaq — a passionate DevOps Engineer in the making! I'm curre
 
 ---
 
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=muhammadiishaq&theme=radical&no-frame=false&margin-w=4)
-
+-->
 ---
 
 ## ✍️ Random Dev Quote
@@ -88,7 +90,7 @@ Hi, I'm Muhammad Ishaq — a passionate DevOps Engineer in the making! I'm curre
 
 
 
- <a href="https://github.com/smuhabdullah">
+ <a href="https://github.com/muhammadiishaq">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammadiishaq&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> 
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muhammadiishaq&layout=compact&langs_count=8&theme=algolia"/>
 </a>
