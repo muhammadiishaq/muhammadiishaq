@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
   <p align="center">
   <a href="https://github.com/muhammadiishaq">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=500&color=00FFAA&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Cloud+Computing+Specialist;Linux+Administrator;CI%2FCD+Automation+Expert;IaC+%7C+Terraform+%7C+Ansible;Monitoring+with+Grafana+%26+Prometheus;Cyber+Security+Enthusiast;Python+%7C+C%2B%2B+%7C+Bash+%7C+HTML+%7C+CSS">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=500&color=d4ad00&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Cloud+Computing+Specialist;Linux+Administrator;CI%2FCD+Automation+Expert;IaC+%7C+Terraform+%7C+Ansible;Monitoring+with+Grafana+%26+Prometheus;Cyber+Security+Enthusiast;Python+%7C+C%2B%2B+%7C+Bash+%7C+HTML+%7C+CSS">
   </a>
 </p>
 
