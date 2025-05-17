@@ -19,7 +19,15 @@ Here are some ideas to get you started:
   <div align="center">
     <h1> Hi there, I'm Muhammad Ishaq👋<a href="#"></h1>
   </div>
+
 <p align="center">
+  <a href="https://github.com/muhammadiishaq">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=DevOps+Engineer;Cloud+Computing+Specialist;Linux+Administrator;CI%2FCD+Automation+Expert;Infrastructure+as+Code+%28IaC%29;Monitoring+%26+Logging+with+Grafana;Cyber+Security+Enthusiast;Python+%7C+C%2B%2B+%7C+Bash+%7C+HTML+%7C+CSS">
+  </a>
+</p>
+
+     
+<!-- <p align="center">
 <a href="https://github.com/muhammadiishaq"><img src="https://readme-typing-svg.herokuapp.com?lines=Experienced+DevOps+Engineer;Cloud+Computing+Linux+admin;Cyber+Security+AI+Python;&center=true&width=500&height=50"></a>
 <!-- ### Welcome to My GitHub Profile!
 Experienced Python Developer specializing in data science. I hold a Bachelor's degree in Computer Science from Usman Institute of Technology. Currently, I'm a Python Developer at Odolution, exhibited proficiency in designing and optimizing Odoo modules for improved performance and usability across 3 or more projects, with hands-on experience in Odoo versions 14, 15, 16, and 17. My leadership in the Sugarcane Disease Detector project showcases my skills in Python, CNN, and Django. I'm also an active volunteer with a passion for community service.
