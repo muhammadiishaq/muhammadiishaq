@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 - 👯 Looking forward to collaborating with other developers and data enthusiasts on interesting projects.
 - 🥅 My goals for this learning phase are to gain a solid foundation in Python development and data analysis and apply my skills to real-world projects.
 - 💎 If you have any suggestions, resources, or opportunities related to Python development or data analysis, feel free to connect with me.
-
+-->
  
 	
-<!--<p align="center">
-<!-- ## 🐛Github Magic Game  <img src="https://github.com/smuhabdullah/smuhabdullah/raw/output/github-contribution-grid-snake.svg" alt="snake"></center> -->
+<p align="center">
+ ## 🐛Github Magic Game  <img src="https://github.com/smuhabdullah/smuhabdullah/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
 # 💫 About Me
