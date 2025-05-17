@@ -26,20 +26,16 @@ Here are some ideas to get you started:
 </p>
 
 
-<!-- This README serves as an introduction to who I am and what I am currently focusing on in my learning journey.
+This README serves as an introduction to who I am and what I am currently focusing on in my learning journey.
 
 - 🌱 Instructed 4 batches of students, providing guidance to over 100+ individuals in developing their future skills at BanoQabil 2.0.
 - 🌱 Pursuing the Google Data Analyst course to learn valuable data analysis techniques and tools.
 - 👯 Looking forward to collaborating with other developers and data enthusiasts on interesting projects.
 - 🥅 My goals for this learning phase are to gain a solid foundation in Python development and data analysis and apply my skills to real-world projects.
 - 💎 If you have any suggestions, resources, or opportunities related to Python development or data analysis, feel free to connect with me.
--->
+
  
 	
-<p align="center">
- ## 🐛Github Magic Game  <img src="https://github.com/smuhabdullah/smuhabdullah/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-
 # 💫 About Me
 Hi, I'm Muhammad Ishaq — a passionate DevOps Engineer in the making! I'm currently studying and building hands-on experience in modern cloud-native DevOps tools and practices, from CI/CD pipelines to cloud infrastructure, container orchestration, and infrastructure as code.
 
