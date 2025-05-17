@@ -14,11 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<body>
+<body style="background-color: #0d1117; color: #ffffff; font-family: 'Segoe UI', sans-serif;">
   <div align="center">
-    <h1> Hi there, I'm Muhammad Ishaq👋<a href="#d4ad00"></h1>
+    <h1 style="color: #00ffcc; font-size: 3em; font-weight: bold; text-shadow: 2px 2px 8px #008080;">
+      Hi there, I'm Muhammad Ishaq 👋
+    </h1>
   </div>
+</body>
+
+<!-- <body>
+  <div align="center">
+    <h1> Hi there, I'm Muhammad Ishaq👋<a href="#d"></h1>
+  </div> -->
 
   <p align="center">
   <a href="https://github.com/muhammadiishaq">
