@@ -32,7 +32,7 @@ Hi, I'm Muhammad Ishaq — a passionate DevOps Engineer in the making! I'm curre
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ishaq-069089291/) 
 [![Website](https://img.shields.io/badge/Website-0285FF?style=flat&logo=google-chrome&logoColor=white)](https://ishaq-my-portfolio.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadishaqpak801@gmail.com) 
@@ -45,7 +45,7 @@ Hi, I'm Muhammad Ishaq — a passionate DevOps Engineer in the making! I'm curre
 
 
 ---
-## 💼 DevOps Tech Stack & Programming Skills
+# 💼 DevOps Tech Stack & Programming Skills
 
 | **Category** | **Tools** |
 |--------------|-----------|
@@ -66,7 +66,7 @@ Hi, I'm Muhammad Ishaq — a passionate DevOps Engineer in the making! I'm curre
 -->
 ---
 
-## ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
