@@ -1,5 +1,14 @@
 <img src="github-banner.png" alt="GitHub Banner" width="100%" />
+<!--
+<div align="center">
 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=500&color=3AF926&random=false&width=435&lines=Hello..Dosto...!;Muahammad+Ishaq...Here!)](https://git.io/typing-svg)
+
+</div>
+-->
 
 <!--**muhammadiishaq/muhammadiishaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,11 +23,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
  <body>
   <div align="center">
-    <h1> Hi there, I'm Muhammad Ishaq👋<a href="#d"></h1>
+    <h1> Hi there, I'm Muhammad Ishaq<a href="#d">   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
   </div>
-
+   
   <p align="center">
   <a href="https://github.com/muhammadiishaq">
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=500&color=d4ad00&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Cloud+Computing+Specialist;Linux+Administrator;CI%2FCD+Automation+Expert;IaC+%7C+Terraform+%7C+Ansible;Monitoring+with+Grafana+%26+Prometheus;Cyber+Security+Enthusiast;Python+%7C+C%2B%2B+%7C+Bash+%7C+HTML+%7C+CSS">
@@ -64,14 +75,17 @@ Hi, I'm Muhammad Ishaq — a passionate DevOps Engineer in the making! I'm curre
 <!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=muhammadiishaq&theme=radical&no-frame=false&margin-w=4)
 -->
----
 
+
+## 💡 Favorite Quote
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=chartreuse-dark&animation=grow_out_in&layout=default&font=Courier&quoteType=random)
+<!--
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
+--
 
-<!--## 🔝 Top Contributed Repo
+<!---## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=muhammadiishaq&limit=5&theme=dark&combine_all_yearly_contributions=true)
 -->
 ---
@@ -83,6 +97,7 @@ Hi, I'm Muhammad Ishaq — a passionate DevOps Engineer in the making! I'm curre
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhammadiishaq/muhammadiishaq/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/muhammadiishaq/muhammadiishaq/output/github-snake.svg" />
 </picture>
+
 
 
 
