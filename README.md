@@ -57,6 +57,13 @@ Hi, I'm Muhammad Ishaq — a passionate DevOps Engineer in the making! I'm curre
 
 
 ---
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=muhammadiishaq&label=Profile%20Views&color=0e75b6&style=flat" alt="Muhammad Ishaq profile views" />
+</p>
+
+---
+
 # 💼 DevOps Tech Stack & Programming Skills
 
 | **Category** | **Tools** |
