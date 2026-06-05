@@ -65,6 +65,10 @@ Hi, I'm Muhammad Ishaq — a passionate DevOps Engineer in the making! I'm curre
 
 ---
 
+[![Rankistan rank badge](https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Fmuhammadiishaq&style=flat)](https://rankistan.dev)
+
+---
+
 # 💼 DevOps Tech Stack & Programming Skills
 
 | **Category** | **Tools** |
